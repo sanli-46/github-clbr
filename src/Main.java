@@ -6,6 +6,8 @@ public class Main {
 
 
         System.out.println("Oğuzhan");
+
+        System.out.println("kuru üzüm bitti üzgünüz :(");
     }
 
 

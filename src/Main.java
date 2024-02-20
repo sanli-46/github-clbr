@@ -6,6 +6,8 @@ public class Main {
         System.out.println("kahve ve cay hazir");
         System.out.println("kuru uzum");
         System.out.println("Oğuzhan");
+        System.out.println("nasilsiniz");
+
     }
 
 
